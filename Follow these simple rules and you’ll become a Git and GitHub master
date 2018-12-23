@@ -1,0 +1,5 @@
+What makes senior developers senior is not that they know the syntax of a given language better, 
+but that they have experience working with large and complex projects with real users and business goals.
+    Rule #1: Create a Git repository for every new project
+    Rule #2: Create a new branch for every new feature
+    Rule #3: Use Pull Requests to merge code to Master
